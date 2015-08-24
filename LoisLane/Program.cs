@@ -69,6 +69,8 @@ namespace LoisLane {
             
             //some properties will not exist in the template becasue they need special handling.
             //do some special array handling and formatting here.
+            // use a keyword _list or _otherword to trigger special processing
+
         }
 
         private static void EchoHelp(string ignore, string ignored){
