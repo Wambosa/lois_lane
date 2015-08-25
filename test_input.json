@@ -1,0 +1,74 @@
+{
+	"document_title" : "HEX63063 HEX63107 HEX63228 HEX63269 HEX63327 HEX63329 HEX63330 HEX63331 HEX63356 design document",
+	
+	"report_date": "8/24/15",
+	
+	"submitted_by": "James Bond",
+
+	"story_links": "https://rally1.rallydev.com/slm/webservice/v2.0/hierarchicalrequirement/1234567890
+	https://rally1.rallydev.com/slm/webservice/v2.0/hierarchicalrequirement/1234567890
+	https://rally1.rallydev.com/slm/webservice/v2.0/hierarchicalrequirement/1234567890
+	https://rally1.rallydev.com/slm/webservice/v2.0/hierarchicalrequirement/1234567890
+	https://rally1.rallydev.com/slm/webservice/v2.0/hierarchicalrequirement/1234567890
+	https://rally1.rallydev.com/slm/webservice/v2.0/hierarchicalrequirement/1234567890
+	https://rally1.rallydev.com/slm/webservice/v2.0/hierarchicalrequirement/1234567890
+	https://rally1.rallydev.com/slm/webservice/v2.0/hierarchicalrequirement/1234567890",
+	
+	"review_task_links": "N/A",
+	
+	"story_attachments" : "N/A",
+	
+	"diagrams" : "c:/some/file/path/image.png",
+	
+	"ui_wireframes": "https://rally1.rallydev.com/slm/webservice/v2.0/attachment/1234567890
+	https://rally1.rallydev.com/slm/webservice/v2.0/attachment/1234567890
+	https://rally1.rallydev.com/slm/webservice/v2.0/attachment/1234567890
+	https://rally1.rallydev.com/slm/webservice/v2.0/attachment/1234567890
+	https://rally1.rallydev.com/slm/webservice/v2.0/attachment/1234567890
+	https://rally1.rallydev.com/slm/webservice/v2.0/attachment/1234567890",
+	
+	"database_tables" : "
+	Capture.Kanto.Pokemon
+	Captive.Johto.Pokemon",
+	
+	"stored_procedures" : "N/A",
+	
+	"database_views": "N/A",
+	
+	"is_require_dba_approval": "no thank you",
+	
+	"csproj_list": "c:/development/server/server.csproj
+	c:/development/web sites/web.csproj",
+	
+	"unit_test_list": "app.services.ALG.spec.js                                                     
+app.services.Chrome.spec.js                                                  
+app.ui.cell.spec.js                                                          
+app.ui.Grid.spec.js                                                          
+app.urls.spec.js                                                             
+app.validators.spec.js                                                       
+app.vehicle.BaseDetailViewModel.spec.js                                      
+app.vehicle.models.NewALGViewModel.spec.js                                   
+app.vehicle.models.NewVehicleViewModel.spec.js                               
+app.vehicle.models.VehicleManagementViewModel.spec.js                        
+app.vehicle.proxy.spec.js                                                    
+app.vehicle.utils.spec.js                                                    
+app.vehicle.VehicleType.spec.js                                              
+app.worksheet.models.NewWorksheetViewModel.spec.js                           
+app.worksheet.models.WorksheetManagementViewModel.spec.js                    
+app.worksheet.proxy.spec.js                                                  
+app.worksheet.worksheet.spec.js  
+	",
+
+	"same_twig_dependencies" : "NONE. YAY!",
+	
+	"inter_twig_dependencies" : "your.mom",
+	
+	"3rd_party_dependencies" : "N/A",
+	
+	"wixml_list" : "N/A",
+
+	"appendix" : " ",
+
+
+	"glossary": ""
+}
