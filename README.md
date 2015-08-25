@@ -9,4 +9,4 @@ She creates a "new_file.docx" right next to the executable or your defined outfi
   
 Example:  
 PS> .\LoisLane.exe -design-document -file test_input.json  
-PS> .\LoisLane.exe -design-document -file test_input.json -outfile my_cool_name.docx  
+PS> .\LoisLane.exe -design-document -file test_input.json -out-file my_cool_name.docx  
